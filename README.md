@@ -52,14 +52,11 @@ GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, Un
 
 Work was supported by the [Applied Geospatial Research Group] and [UW Glaciology].
 
-Development of this aoftware is ongoing, please submit [feature requests] and [bug reports] to help us improve it!
+Development of this aoftware is ongoing, please submit feature requests and bug reports to help us improve it!
 
 ## License
 
 ??
 
-   [point-cloud-align]: <https://github.com/ellie-b>
-   [feature requests]: <https://github.com/ellie-b>
-   [bug reports]: <https://github.com/ellie-b>
    [Applied Geospatial Research Group]: <https://www.appliedgrg.ca/>
    [UW Glaciology]: <https://uwglaciology.ca/>
