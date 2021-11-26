@@ -36,12 +36,12 @@ Select the reference data and input camera locations in the reference coordinate
 2. Orient
 Select the midpoint of the unreferenced data and adjust the uncertainty of your selection. This highlights the cells searched for best fit in step 4.
 
-3. Scale
+3. Scale - currently the scaling is not optimized in the software
 
 4. Optimize
 Automatically optimize the best fit between the reference data and the unreferenced data. Solutions are sorted based on the fit and the user can then inspect each solution to choose the best one.
 
-5. ICP
+5. ICP - an internal fine-registration step is not implemented yet
 
 6. Apply
 Apply the selected solution to any set of selected point cloud files.
@@ -52,7 +52,7 @@ GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, Un
 
 Work was supported by the [Applied Geospatial Research Group] and [UW Glaciology].
 
-Development of this aoftware is ongoing, please submit feature requests and bug reports to help us improve it!
+Development of this software is ongoing, please submit feature requests and bug reports to help us improve it!
 
 ## License
 
