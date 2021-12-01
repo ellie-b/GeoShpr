@@ -26,7 +26,7 @@ GeoShpr relies a number of open source projects to work properly:
 
 ## Installation
 
-To install download the two zip folders into one directory and extract the contents. In the software folder, find the sandbox.ini file and open it with a text editor. Change the directory path to point to the geoshpr-data folder you just extracted.
+To install download the two zip folders into one directory and extract the contents. In the geoshpr-v1 folder, find the sandbox.ini file and open it with a text editor. Change the directory path to point to the geoshpr-data folder you just extracted.
 
 That's it! Now open the geoshpr executable and start georeferencing!
 
