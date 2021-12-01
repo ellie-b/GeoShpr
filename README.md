@@ -136,5 +136,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    [Applied Geospatial Research Group]: <https://www.appliedgrg.ca/>
    [UW Glaciology]: <https://uwglaciology.ca/>
    [NSERC]: <https://www.nserc-crsng.gc.ca/index_eng.asp>
-   [UofC Graphics Interaction Visualization(GIV)]: <https://giv.ucalgary.ca/>
+   [UofC Graphics Interaction Visualization(GIV)]: <https://giv.cpsc.ucalgary.ca/>
    [Disdyakis Triacontahedron]: <https://www.mdpi.com/2220-9964/9/5/315>
