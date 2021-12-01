@@ -26,7 +26,11 @@ GeoShpr relies a number of open source projects to work properly:
 
 ## Installation
 
-Installation instructions
+To install download the two zip folders into one directory and extract the contents. In the software folder, find the sandbox.ini file and open it with a text editor. Change the directory path to point to the geoshpr-data folder you just extracted.
+
+That's it! Now open the geoshpr executable and start georeferencing!
+
+One known issue during installation is an incompatability with some native Windows graphics cards. If the software fails to open, try changing the preferred graphics card under in the control panel.
 
 ## Workflow
 
