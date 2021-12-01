@@ -76,7 +76,7 @@ Apply the selected solution to any set of selected point cloud files.
 
 GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, University of Waterloo), Lakin Wecker (PhD Candidate, University of Calgary), and Mustafizur Rahman (Research Associate, University of Calgary).
 
-Work was supported by the [Applied Geospatial Research Group], [UW Glaciology], [NSERC], and [UofC Graphics Interaction Visualization(GIV)].
+Work was supported by the [Applied Geospatial Research Group], [UW Glaciology], [NSERC], and [Graphics, Interaction, and Visualization Group].
 
 Development of this software is ongoing, please submit feature requests and bug reports to help us improve it!
 
@@ -136,5 +136,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    [Applied Geospatial Research Group]: <https://www.appliedgrg.ca/>
    [UW Glaciology]: <https://uwglaciology.ca/>
    [NSERC]: <https://www.nserc-crsng.gc.ca/index_eng.asp>
-   [UofC Graphics Interaction Visualization(GIV)]: <https://giv.cpsc.ucalgary.ca/>
+   [Graphics, Interaction, and Visualization Group]: <https://giv.cpsc.ucalgary.ca/>
    [Disdyakis Triacontahedron]: <https://www.mdpi.com/2220-9964/9/5/315>
