@@ -13,42 +13,13 @@ Hall J, Wecker L, Ulmer B, Samavati F. [Disdyakis Triacontahedron DGGS]. ISPRS I
 - Select the viewpoint of the cameras used to create the unrefereneced cloud
 - Automatically optimize fit between reference data and unreferenced point cloud
 - Inspect results and select the best solution for further refinement
-- Apply reults to a time series of point clouds that share the same view
-
-## Tech
-
-The following open source projects are either used directly within the the above source
-or were used during its development.
-
-- boost/1.76.0 - https://github.com/boostorg - https://www.boost.org/ - [Boost License](https://www.boost.org/users/license.html)
-- eigen/3.3.9 - https://eigen.tuxfamily.org/index.php?title=Main_Page - [MPL2 License](https://eigen.tuxfamily.org/index.php?title=Main_Page#License)
-- fmt/7.1.3 - https://github.com/fmtlib/fmt - [LICENSE](https://github.com/fmtlib/fmt/blob/master/LICENSE.rst)
-- gdal/3.3.1 - https://gdal.org/ - [MIT/X license](https://gdal.org/license.html)
-- glfw/3.3.3 - https://www.glfw.org/ - [zlib/libpng license](https://www.glfw.org/license.html)
-- hdf5/1.12.0 - https://portal.hdfgroup.org/display/HDF5/HDF5 - [BSD-3 License](https://portal.hdfgroup.org/display/support/Licenses)
-- imgui/1.81 - https://github.com/ocornut/imgui - [MIT License](https://github.com/ocornut/imgui/blob/master/LICENSE.txt)
-- immer - https://github.com/arximboldi/immer - [Boost License](https://github.com/arximboldi/immer/blob/master/LICENSE)
-- implot - https://github.com/epezent/implot - [MIT License](https://github.com/epezent/implot/blob/master/LICENSE)
-- lager - https://github.com/arximboldi/lager.git - [MIT License](https://github.com/arximboldi/lager/blob/master/LICENSE)
-- libgeotiff/1.7.0 - https://github.com/OSGeo/libgeotiff - [X-Style](https://github.com/OSGeo/libgeotiff/blob/master/libgeotiff/LICENSE)
-- libigl - https://github.com/libigl/libigl - [MPL2 License](https://github.com/libigl/libigl/blob/main/LICENSE.MPL2)
-- ms-gsl/3.1.0 - https://github.com/microsoft/GSL - [MIT License](https://github.com/microsoft/GSL/blob/main/LICENSE)
-- nlohmann_json/3.9.1 - https://github.com/nlohmann/json - [MIT License](https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)
-- openssl/1.1.1k - https://github.com/openssl/openssl - [Apache 2.0 License](https://github.com/openssl/openssl/blob/master/LICENSE.txt)
-- pdal/2.3.0 - https://pdal.io/ - [BSD](https://pdal.io/copyright.html)
-- portable-file-dialogs - https://github.com/samhocevar/portable-file-dialogs - [WTFPL License](https://github.com/samhocevar/portable-file-dialogs/blob/master/COPYING)
-- proj/8.1.1 - https://proj.org/ - [X/MIT License](https://proj.org/about.html#license)
-- range-v3 - https://github.com/ericniebler/range-v3 - [Boost License](https://github.com/ericniebler/range-v3/blob/master/LICENSE.txt)
-- spdlog/1.8.2 - https://github.com/gabime/spdlog - [MIT License](https://github.com/gabime/spdlog/blob/v1.x/LICENSE)
-- tbb/2020.3 - https://github.com/oneapi-src/oneTBB - [Apache 2.0 License](https://github.com/oneapi-src/oneTBB/blob/master/LICENSE.txt)
-- tinyply/2.3.2 - https://github.com/ddiakopoulos/tinyply - [Public Domain](https://github.com/ddiakopoulos/tinyply#license)
-- vivid - https://github.com/gurki/vivid - [MIT License](https://github.com/gurki/vivid/blob/master/LICENSE.md)
-- zstd/1.4.5 - https://github.com/facebook/zstd - [BSD-3 License](https://github.com/facebook/zstd/blob/dev/LICENSE)
-- zug - https://github.com/arximboldi/zug - [Boost License](https://github.com/arximboldi/zug/blob/master/LICENSE)
+- Apply results to a time series of point clouds that share the same view
 
 ## Installation
 
-To install download the two zip folders into one directory and extract the contents. In the geoshpr-v1 folder, find the sandbox.ini file and open it with a text editor. Change the directory path to point to the geoshpr-data folder you just extracted.
+GeoShpr is currently available as a downloadable binary for Windows only. We are working on Linux and OSX versions, as well as the software open source.
+
+To install download the two zip folders into one directory and extract the contents. In the geoshpr-vX folder, find the sandbox.ini file and open it with a text editor. Change the directory path to point to the geoshpr-data folder you just extracted.
 
 That's it! Now open the geoshpr executable and start georeferencing!
 
@@ -132,6 +103,37 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## Tech
+
+The following open source projects are either used directly within the the above source
+or were used during its development.
+
+- boost/1.76.0 - https://github.com/boostorg - https://www.boost.org/ - [Boost License](https://www.boost.org/users/license.html)
+- eigen/3.3.9 - https://eigen.tuxfamily.org/index.php?title=Main_Page - [MPL2 License](https://eigen.tuxfamily.org/index.php?title=Main_Page#License)
+- fmt/7.1.3 - https://github.com/fmtlib/fmt - [LICENSE](https://github.com/fmtlib/fmt/blob/master/LICENSE.rst)
+- gdal/3.3.1 - https://gdal.org/ - [MIT/X license](https://gdal.org/license.html)
+- glfw/3.3.3 - https://www.glfw.org/ - [zlib/libpng license](https://www.glfw.org/license.html)
+- hdf5/1.12.0 - https://portal.hdfgroup.org/display/HDF5/HDF5 - [BSD-3 License](https://portal.hdfgroup.org/display/support/Licenses)
+- imgui/1.81 - https://github.com/ocornut/imgui - [MIT License](https://github.com/ocornut/imgui/blob/master/LICENSE.txt)
+- immer - https://github.com/arximboldi/immer - [Boost License](https://github.com/arximboldi/immer/blob/master/LICENSE)
+- implot - https://github.com/epezent/implot - [MIT License](https://github.com/epezent/implot/blob/master/LICENSE)
+- lager - https://github.com/arximboldi/lager.git - [MIT License](https://github.com/arximboldi/lager/blob/master/LICENSE)
+- libgeotiff/1.7.0 - https://github.com/OSGeo/libgeotiff - [X-Style](https://github.com/OSGeo/libgeotiff/blob/master/libgeotiff/LICENSE)
+- libigl - https://github.com/libigl/libigl - [MPL2 License](https://github.com/libigl/libigl/blob/main/LICENSE.MPL2)
+- ms-gsl/3.1.0 - https://github.com/microsoft/GSL - [MIT License](https://github.com/microsoft/GSL/blob/main/LICENSE)
+- nlohmann_json/3.9.1 - https://github.com/nlohmann/json - [MIT License](https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)
+- openssl/1.1.1k - https://github.com/openssl/openssl - [Apache 2.0 License](https://github.com/openssl/openssl/blob/master/LICENSE.txt)
+- pdal/2.3.0 - https://pdal.io/ - [BSD](https://pdal.io/copyright.html)
+- portable-file-dialogs - https://github.com/samhocevar/portable-file-dialogs - [WTFPL License](https://github.com/samhocevar/portable-file-dialogs/blob/master/COPYING)
+- proj/8.1.1 - https://proj.org/ - [X/MIT License](https://proj.org/about.html#license)
+- range-v3 - https://github.com/ericniebler/range-v3 - [Boost License](https://github.com/ericniebler/range-v3/blob/master/LICENSE.txt)
+- spdlog/1.8.2 - https://github.com/gabime/spdlog - [MIT License](https://github.com/gabime/spdlog/blob/v1.x/LICENSE)
+- tbb/2020.3 - https://github.com/oneapi-src/oneTBB - [Apache 2.0 License](https://github.com/oneapi-src/oneTBB/blob/master/LICENSE.txt)
+- tinyply/2.3.2 - https://github.com/ddiakopoulos/tinyply - [Public Domain](https://github.com/ddiakopoulos/tinyply#license)
+- vivid - https://github.com/gurki/vivid - [MIT License](https://github.com/gurki/vivid/blob/master/LICENSE.md)
+- zstd/1.4.5 - https://github.com/facebook/zstd - [BSD-3 License](https://github.com/facebook/zstd/blob/dev/LICENSE)
+- zug - https://github.com/arximboldi/zug - [Boost License](https://github.com/arximboldi/zug/blob/master/LICENSE)
 
    [Applied Geospatial Research Group]: <https://www.appliedgrg.ca/>
    [UW Glaciology]: <https://uwglaciology.ca/>
