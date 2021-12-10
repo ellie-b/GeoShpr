@@ -43,9 +43,7 @@ Automatically optimize the best fit between the reference data and the unreferen
 6. Apply
 Apply the selected solution to any set of selected point cloud files.
 
-Watch a tutorial here:
-![Tutorial 1](Figures/Tutorial Split 1.mp4)
-![Tutorial 2](Figures/Tutorial Split 2.mp4)
+Watch the tutorials in the Figures sub-directory to learn more about using the software.
 
 ## Sample data
 
