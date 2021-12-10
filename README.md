@@ -43,6 +43,10 @@ Automatically optimize the best fit between the reference data and the unreferen
 6. Apply
 Apply the selected solution to any set of selected point cloud files.
 
+Watch a tutorial here:
+![Tutorial 1](Figures/Tutorial Split 1.mp4)
+![Tutorial 2](Figures/Tutorial Split 2.mp4)
+
 ## Sample data
 
 The zip files above contain a sample scenario using data from Fountain Glacier, Nunavut, Canada. The reference data is a point cloud reconstructed from a July 1, 2010 remotely piloted vehicle flight. The unreferenced data was created from two terrestrial images images overlooking a dry calving front on the north side of the glacier. Both point clouds were downsampled for computational efficiency. Data license information is found in the data directory.
