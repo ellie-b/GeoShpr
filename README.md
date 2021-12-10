@@ -43,6 +43,12 @@ Automatically optimize the best fit between the reference data and the unreferen
 6. Apply
 Apply the selected solution to any set of selected point cloud files.
 
+## Sample data
+
+The zip files above contain a sample scenario using data from Fountain Glacier, Nunavut, Canada. The reference data is a point cloud reconstructed from a July 1, 2010 remotely piloted vehicle flight. The unreferenced data was created from two terrestrial images images overlooking a dry calving front on the north side of the glacier. Both point clouds were downsampled for computational efficiency. Data license information is found in the data directory.
+
+![Sample Data Location](Figures/ftn_loc-01.jpg)
+
 ## Development
 
 GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, University of Waterloo), Lakin Wecker (PhD Candidate, University of Calgary), and Mustafizur Rahman (Research Associate, University of Calgary).
