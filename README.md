@@ -53,7 +53,7 @@ The zip files above contain a sample scenario using data from Fountain Glacier, 
 
 ## Development
 
-GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, University of Waterloo), Lakin Wecker (PhD Candidate, University of Calgary), and Mustafizur Rahman (Research Associate, University of Calgary).
+GeoShpr was designed and conceptualized by Eleanor Bash (Postdoctoral Fellow, University of Waterloo), Lakin Wecker (PhD Candidate, University of Calgary), and Mustafizur Rahman (Research Associate, University of Calgary). This was originally [presented] at the American Geophysical Union Annual Meeting in 2021.
 
 Work was supported by the [Applied Geospatial Research Group], [UW Glaciology], [NSERC], and [Graphics, Interaction, and Visualization Group].
 
@@ -148,3 +148,4 @@ or were used during its development.
    [NSERC]: <https://www.nserc-crsng.gc.ca/index_eng.asp>
    [Graphics, Interaction, and Visualization Group]: <https://giv.cpsc.ucalgary.ca/>
    [Disdyakis Triacontahedron]: <https://www.mdpi.com/2220-9964/9/5/315>
+   [presented]: <https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/952493>
